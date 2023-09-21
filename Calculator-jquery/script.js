@@ -44,7 +44,6 @@ $(document).ready(function() {
   function clearDis() {
     $('#displayNum').html('');
     $('#displayOpr').html('');
-    result = 0;
     inputHistory = 0;
     currentInput = 0;
   }
